@@ -1,5 +1,5 @@
 # varma
 
-Name: Srivarma Mudunuri
+Name: Srivarma Mudunuri.
 Age: 20
 Gender: Male
